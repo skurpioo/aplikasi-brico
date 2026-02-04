@@ -1,6 +1,6 @@
 # 🧱 Brico
 
-**Brico** adalah aplikasi yang dirancang untuk membantu proses bisnis dan manajemen usaha secara digital melalui pendekatan desain UI/UX yang modern dan mudah digunakan.
+**Brico** adalah aplikasi yang dirancang untuk membantu proses bisnis dan manajemen usaha **briket arang** secara digital melalui pendekatan desain UI/UX yang modern dan mudah digunakan.
 
 Repository ini berisi **desain UI/UX dan prototype aplikasi Brico** yang dibuat menggunakan **Figma**, sebagai bagian dari proses perancangan sebelum aplikasi dikembangkan ke tahap implementasi.
 
@@ -9,15 +9,16 @@ Prototype ini dibuat dalam rangka mengikuti **Program Wirausaha Merdeka (WMK) Ta
 ---
 
 ## 🎯 Latar Belakang
-Program **Wirausaha Merdeka (WMK) 2024** mendorong mahasiswa untuk mengembangkan ide bisnis inovatif yang berbasis teknologi dan berorientasi pada solusi nyata.
+Bisnis **briket arang** memiliki potensi besar sebagai produk energi alternatif yang ramah lingkungan dan bernilai ekonomi tinggi. Namun, dalam praktiknya, pelaku usaha briket masih menghadapi berbagai tantangan, seperti pengelolaan produksi, pencatatan penjualan, dan distribusi produk yang belum terintegrasi secara digital.
 
-Melalui program ini, aplikasi **Brico** dirancang sebagai solusi digital yang mendukung aktivitas usaha dengan fokus pada kemudahan penggunaan, efisiensi, dan pengalaman pengguna yang optimal.
+Program **Wirausaha Merdeka (WMK) 2024** mendorong mahasiswa untuk mengembangkan ide bisnis inovatif berbasis teknologi dan berorientasi pada solusi nyata. Melalui program ini, aplikasi **Brico** dirancang sebagai solusi digital untuk mendukung pengelolaan bisnis briket arang agar lebih efisien, terstruktur, dan mudah dijalankan.
 
 ---
 
 ## 🎯 Tujuan Proyek
-- Menghasilkan prototype aplikasi sebagai representasi ide bisnis Brico
+- Menghasilkan prototype aplikasi sebagai representasi digital bisnis briket arang **Brico**
 - Menerapkan prinsip **UI/UX Design** dalam pengembangan produk digital
+- Membantu proses manajemen usaha briket arang secara lebih efektif
 - Menjadi dasar visual dan alur pengguna sebelum masuk tahap development
 - Mendukung implementasi ide usaha dalam program Wirausaha Merdeka
 
@@ -28,19 +29,19 @@ Melalui program ini, aplikasi **Brico** dirancang sebagai solusi digital yang me
 - Fokus perancangan:
   - Antarmuka yang sederhana dan intuitif
   - Alur pengguna (user flow) yang jelas
-  - Desain yang relevan dengan kebutuhan bisnis
+  - Desain yang relevan dengan kebutuhan bisnis briket arang
 - Prototype dibuat untuk mensimulasikan penggunaan aplikasi secara nyata
 
 ---
 
 ## ✨ Fitur yang Dirancang
 - Halaman onboarding dan autentikasi
-- Dashboard utama aplikasi
-- Fitur pendukung aktivitas usaha
+- Dashboard utama manajemen usaha
+- Pengelolaan data produksi dan penjualan briket arang
+- Informasi stok dan distribusi produk
 - Tampilan data yang informatif dan mudah dipahami
 
 ---
-
 
 ## 🔗 Preview & Prototype
 
@@ -52,10 +53,10 @@ Berikut adalah preview desain UI/UX dan prototype aplikasi **Brico**:
 ### 📱 Tampilan yang Dirancang
 - **Splash Screen & Onboarding**
 - **Halaman Utama / Dashboard**
-- **Fitur Utama Aplikasi**
+- **Fitur Manajemen Usaha Briket Arang**
 - **Prototype Interaktif**
 
 ---
 
 ## 🙌 Penutup
-Prototype ini diharapkan dapat menjadi langkah awal dalam pengembangan aplikasi Brico sebagai produk digital yang inovatif dan berdaya saing, sejalan dengan semangat **Wirausaha Merdeka 2024**.
+Prototype aplikasi **Brico** diharapkan dapat menjadi langkah awal dalam pengembangan solusi digital untuk bisnis briket arang yang inovatif, berkelanjutan, dan berdaya saing, sejalan dengan semangat **Wirausaha Merdeka 2024**.
