@@ -41,16 +41,6 @@ Melalui program ini, aplikasi **Brico** dirancang sebagai solusi digital yang me
 
 ---
 
-## 🚀 Status Proyek
-🔧 **Tahap Desain & Prototype**  
-Aplikasi Brico masih berada pada tahap perancangan UI/UX dan prototype sebagai bagian dari implementasi Program WMK 2024.
-
----
-
-## 📌 Catatan
-Repository ini berfungsi sebagai dokumentasi desain dan referensi pengembangan aplikasi Brico ke tahap selanjutnya, baik untuk kebutuhan akademik maupun pengembangan produk.
-
----
 
 ## 🔗 Preview & Prototype
 
